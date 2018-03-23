@@ -1,0 +1,24 @@
+{
+  "name": "tinny-copy",
+  "version": "0.0.1",
+  "description": "A tiny tool for copying text in a h5 page",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CoyPan/tinny-copy.git"
+  },
+  "keywords": [
+    "h5",
+    "copy",
+    "js"
+  ],
+  "author": "coypan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CoyPan/tinny-copy/issues"
+  },
+  "homepage": "https://github.com/CoyPan/tinny-copy#readme"
+}
