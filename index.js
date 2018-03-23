@@ -1,6 +1,6 @@
 /**
- * @file 复制text到剪切板
- * @author pankeyu
+ * @file copy text to clipboard
+ * @author coypan
  */
 
 function TinnyCopy(opts) {
