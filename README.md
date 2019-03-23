@@ -15,7 +15,7 @@ var TinyCopy = require('tinny-copy');
 var copyAction = new TinyCopy({
   selectText:'hehe'
 });
-copyAction.on('sucess',function(e){
+copyAction.on('success',function(e){
   console.log('success', e.selextText); // 'success hehe'
 });
 copyAction.on('fail',function(){
